@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22054" started-at="2017-10-21T00:37:50Z" finished-at="2017-10-21T00:38:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22054" started-at="2017-10-21T00:37:50Z" finished-at="2017-10-21T00:38:12Z">
+      <class name="dropDown.Drop_08_25_17">
+        <test-method status="PASS" signature="setup()[pri:0, instance:dropDown.Drop_08_25_17@3532ec19]" name="setup" is-config="true" duration-ms="10209" started-at="2017-10-20T20:37:50Z" finished-at="2017-10-20T20:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mortgage()[pri:0, instance:dropDown.Drop_08_25_17@3532ec19]" name="mortgage" duration-ms="10628" started-at="2017-10-20T20:38:00Z" finished-at="2017-10-20T20:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mortgage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dropDown.Drop_08_25_17@3532ec19]" name="tearDown" is-config="true" duration-ms="1186" started-at="2017-10-20T20:38:11Z" finished-at="2017-10-20T20:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dropDown.Drop_08_25_17 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
